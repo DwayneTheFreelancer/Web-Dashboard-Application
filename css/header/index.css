@@ -1,0 +1,29 @@
+.header {
+  background-color: mediumpurple;
+  height: 70px;
+  margin-top: -20px;
+  /*padding-top: 1px;*/
+  padding: 15px 15px 5px 10px; }
+
+.notification-name {
+  margin-top: -55px;
+  float: right; }
+
+.notification-name li {
+  display: inline-block; }
+
+.bell {
+  /*border-right: 1px solid black;*/
+  padding-right: 10px; }
+
+.bell:hover {
+  transform: rotate(15deg);
+  /*transform: rotate(-15deg);*/
+  /*transform: skew(20deg, -10deg);*/ }
+
+.pfp {
+  border-left: 1px solid black;
+  /*border-radius: 20px;*/
+  padding-left: 10px; }
+
+/*# sourceMappingURL=index.css.map */

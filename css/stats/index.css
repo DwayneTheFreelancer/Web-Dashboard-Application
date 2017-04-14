@@ -1,0 +1,37 @@
+.stats {
+  /*padding: 0 1em;*/
+  /*margin-left: -20px;*/
+  width: 100%;
+  margin: 0 auto; }
+
+.twitter, .facebook, .google {
+  display: inline-block;
+  border: 1px solid black;
+  padding-top: 35px;
+  padding-left: 10px;
+  width: 30.6%;
+  margin: 0 auto;
+  /*padding-bottom: -35px;*/ }
+
+.twitter img, .twitter-list {
+  display: inline-block; }
+
+.facebook img, .facebook-list {
+  display: inline-block; }
+
+.google img, .google-list {
+  display: inline-block; }
+
+.twitter img, .facebook img, .google img {
+  background-color: mediumslateblue;
+  border-radius: 50%;
+  padding: 15px; }
+
+.twitter img:hover, .facebook img:hover, .google img:hover {
+  transform: scale(0.8, 0.8); }
+
+.twitter-list, .facebook-list, .google-list {
+  margin-top: -50px;
+  list-style: none; }
+
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,110 @@
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  .main-container {
+    width: 100%;
+    height: 1090%; }
+
+  .header {
+    background-color: mediumpurple;
+    height: 91px;
+    padding: 15px 0px 0px 0px;
+    width: 100%; }
+
+  .side-bar {
+    display: none; }
+
+  .dash-head {
+    width: 100%; }
+
+  #mobile-slide-button {
+    display: block;
+    width: 100%;
+    border-radius: 0px;
+    margin-top: -18px;
+    padding: 10px 0; }
+
+  #mobile-slide-bar {
+    display: block;
+    width: 100%;
+    margin-top: -16px;
+    background-color: blue; }
+
+  #pages {
+    list-style: none;
+    width: 200px;
+    margin: 16px auto 0 auto;
+    border-bottom: 1px solid black; }
+
+  #pages li {
+    padding: 5px 0; }
+
+  .chart-options {
+    width: 100%;
+    margin: 0 auto;
+    clear: both; }
+
+  .line {
+    width: 80%;
+    margin: 0 auto;
+    border: none; }
+
+  .line, .barChart, .pieChart {
+    width: 100%;
+    padding-top: 200px;
+    border: none; }
+
+  .barChart {
+    width: 100%;
+    margin: 100px auto 0 auto; }
+
+  .pieChart {
+    margin-top: -120px;
+    width: 100%;
+    margin-bottom: 50px; }
+
+  .twitter, .facebook, .google {
+    display: block;
+    width: 90%;
+    margin: 0 auto; }
+
+  .people-container {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    border-left: 1px solid black;
+    margin-top: 50px; }
+
+  .activity-container {
+    display: block;
+    width: 90%;
+    margin: 0 auto; }
+
+  .act1-img, .message-1 {
+    display: block; }
+
+  .right-arrow-1, .right-arrow-2, .right-arrow-3, .right-arrow-4 {
+    margin-top: -50px; }
+
+  .act2-img, .message-2 {
+    display: block; }
+
+  .act3-img, .message-3 {
+    display: block; }
+
+  .act4-img, .message-4 {
+    display: block; }
+
+  .message-user {
+    width: 90%;
+    margin: 0 auto; }
+
+  .settings {
+    width: 100%; }
+
+  .buttons {
+    padding: 0 1em; }
+
+  .save-button, .cancel-button {
+    width: 90%;
+    display: block; } }
+
+/*# sourceMappingURL=media.css.map */
